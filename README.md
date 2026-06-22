@@ -443,6 +443,7 @@ Currently available:
 
 - `MossTTSDelay` / `OpenMOSS-Team/MOSS-TTS-v1.5` (also compatible with `OpenMOSS-Team/MOSS-TTS`): [moss_tts_delay/finetuning/README.md](moss_tts_delay/finetuning/README.md)
 - `MossTTSLocal` / `OpenMOSS-Team/MOSS-TTS-Local-Transformer`: [moss_tts_local/finetuning/README.md](moss_tts_local/finetuning/README.md)
+- `MossTTSLocal` / `OpenMOSS-Team/MOSS-TTS-Local-Transformer-v1.5`: [moss_tts_local_v1.5/finetuning/README.md](moss_tts_local_v1.5/finetuning/README.md)
 - `Moss-TTS-Realtime` / `OpenMOSS-Team/MOSS-TTS-Realtime`: [moss_tts_realtime/finetuning/README.md](moss_tts_realtime/finetuning/README.md)
 
 Additional architecture-specific finetuning tutorials will be added under their corresponding directories.
